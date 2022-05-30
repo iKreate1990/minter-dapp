@@ -24,7 +24,7 @@ const layerConfigurations = [
       { name: "Hair" },
       { name: "Accesories" },
       { name: "watermark" },
-      { name: "Legendary" },
+      //{ name: "Legendary" },
     ],
   },
   {
