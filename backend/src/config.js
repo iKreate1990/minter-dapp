@@ -79,8 +79,8 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'D';
-const CONTRACT_SYMBOL = 'D';
+const CONTRACT_NAME = 'DOMDRIPDIVAS1';
+const CONTRACT_SYMBOL = 'DDD';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x092Ea57A44CB0B45d299E6086aE110f9DCAed2B1';
 const TREASURY_ADDRESS = '0x092Ea57A44CB0B45d299E6086aE110f9DCAed2B1';
