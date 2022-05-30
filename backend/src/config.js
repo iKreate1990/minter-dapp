@@ -42,7 +42,7 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 1422,
+    growEditionSizeTo: 2222,
     layersOrder: [
       { name: "Background" },
       { name: "head" },
