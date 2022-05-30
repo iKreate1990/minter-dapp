@@ -52,7 +52,7 @@ const CHAIN = 'rinkeby'; // only rinkeby or polygon
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'D';
 const CONTRACT_SYMBOL = 'D';
-const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
+const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x092Ea57A44CB0B45d299E6086aE110f9DCAed2B1';
 const TREASURY_ADDRESS = '0x092Ea57A44CB0B45d299E6086aE110f9DCAed2B1';
 const MAX_SUPPLY = 2222; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
